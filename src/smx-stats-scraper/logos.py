@@ -1,0 +1,7 @@
+honda_logo = "src/imgs/honda.png"
+yamaha_logo = "src/imgs/yamaha.png"
+husqvarna_logo = "src/imgs/husqvarna.png"
+ktm_logo = "src/imgs/ktm.png"
+kawasaki_logo = "src/imgs/kawasaki.png"
+triumph_logo = "src/imgs/triumph.png"
+gasgas_logo = "src/imgs/gasgas.png"
