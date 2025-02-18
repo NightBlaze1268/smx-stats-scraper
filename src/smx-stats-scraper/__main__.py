@@ -1,0 +1,3 @@
+from scrape_sx_statistics_2025 import update_season_data
+
+update_season_data()
